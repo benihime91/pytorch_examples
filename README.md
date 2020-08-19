@@ -1,4 +1,6 @@
-> PyTorch Example `notebooks`.
+# PyTorch Example notebooks
+
+- This repo contains the following notebooks: 
 
 1. [Image Classification](https://github.com/benihime91/pytorch_examples/blob/master/nb_007_pets.ipynb) on the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) using `Transfer-learning`.
 2. [Basic PyTorch Engine](https://github.com/benihime91/pytorch_examples/blob/master/engine.py) with [OneCycleScheduling](https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
